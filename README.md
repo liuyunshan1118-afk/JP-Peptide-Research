@@ -9,7 +9,7 @@ JP Molecular Labs provides laboratory-grade research peptides and scientific res
 
 ## Featured Research Articles
 
-- [What Is Retatrutide]((https://zzpeptide.com/blogs/guides/what-is-retatrutide))
+- [What Is Retatrutide](https://zzpeptide.com/blogs/guides/what-is-retatrutide)
 - [Retatrutide Mechanism of Action](https://zzpeptide.com/blogs/guides/retatrutide-mechanism-of-action)
 - [Retatrutide Phase 3 Results](https://zzpeptide.com/blogs/guides/retatrutide-phase-3-results)
 - [Retatrutide Research Review 2026](https://zzpeptide.com/blogs/guides/retatrutide-research-review-2026)
